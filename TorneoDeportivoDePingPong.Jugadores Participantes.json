@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9cf"
+  },
+  "Id Jugador": "01",
+  "Nombre": "Rodrigo Petro",
+  "Genero": "Masculino",
+  "Edad": 23,
+  "Estatura": "168cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d0"
+  },
+  "Id Jugador": "02",
+  "Nombre": "Fabio tovar",
+  "Genero": "Masculino",
+  "Edad": 28,
+  "Estatura": "172cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d1"
+  },
+  "Id Jugador": "03",
+  "Nombre": "Raul rodriguez",
+  "Genero": "Masculino",
+  "Edad": 32,
+  "Estatura": "180cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d2"
+  },
+  "Id Jugador": "04",
+  "Nombre": "Gabriel guzman",
+  "Genero": "Masculino",
+  "Edad": 25,
+  "Estatura": "186cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d3"
+  },
+  "Id Jugador": "05",
+  "Nombre": "Oscar rodriguez",
+  "Genero": "Masculino",
+  "Edad": 29,
+  "Estatura": "173cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d4"
+  },
+  "Id Jugador": "06",
+  "Nombre": "Jeison barrero",
+  "Genero": "Masculino",
+  "Edad": 39,
+  "Estatura": "165cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d5"
+  },
+  "Id Jugador": "07",
+  "Nombre": "Carlos ortiz",
+  "Genero": "Masculino",
+  "Edad": 42,
+  "Estatura": "167cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d6"
+  },
+  "Id Jugador": "08",
+  "Nombre": "David jaimes",
+  "Genero": "Masculino",
+  "Edad": 27,
+  "Estatura": "163cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d7"
+  },
+  "Id Jugador": "09",
+  "Nombre": "Julian duran",
+  "Genero": "Masculino",
+  "Edad": 40,
+  "Estatura": "158cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d8"
+  },
+  "Id Jugador": "10",
+  "Nombre": "Daniel rodriguez",
+  "Genero": "Masculino",
+  "Edad": 22,
+  "Estatura": "177cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9d9"
+  },
+  "Id Jugador": "11",
+  "Nombre": "Fernando panche",
+  "Genero": "Masculino",
+  "Edad": 29,
+  "Estatura": "172cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9da"
+  },
+  "Id Jugador": "12",
+  "Nombre": "Diego lagos",
+  "Genero": "Masculino",
+  "Edad": 34,
+  "Estatura": "162cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9db"
+  },
+  "Id Jugador": "13",
+  "Nombre": "Fernando guzman",
+  "Genero": "Masculino",
+  "Edad": 39,
+  "Estatura": "181cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9dc"
+  },
+  "Id Jugador": "14",
+  "Nombre": "Hector leguizamo",
+  "Genero": "Masculino",
+  "Edad": 32,
+  "Estatura": "159cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9dd"
+  },
+  "Id Jugador": "15",
+  "Nombre": "Jorge monsalve",
+  "Genero": "Masculino",
+  "Edad": 38,
+  "Estatura": "178cms"
+},
+{
+  "_id": {
+    "$oid": "6640ff530d705b40da64a9de"
+  },
+  "Id Jugador": "16",
+  "Nombre": "Wilson renjifo",
+  "Genero": "Masculino",
+  "Edad": 26,
+  "Estatura": "170cms"
+}]

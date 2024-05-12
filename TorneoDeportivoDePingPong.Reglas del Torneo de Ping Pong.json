@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "664106440d705b40da64aa04"
+  },
+  "Id Regla 1": "01",
+  "Mesa con medidas estandar": "Mesas ubicadas en el Coliseo el campin",
+  "Documento oficial de reglas": "Listado de reglas"
+},
+{
+  "_id": {
+    "$oid": "664106440d705b40da64aa05"
+  },
+  "Id Regla 1": "02",
+  "Horario preestablecido": "Definido por el Coliseo el campin",
+  "Documento oficial de reglas": "Listado de reglas"
+},
+{
+  "_id": {
+    "$oid": "664106440d705b40da64aa06"
+  },
+  "Id Regla 1": "03",
+  "Fecha Preestablecida": "Aclaradas en el listado de reglas",
+  "Documento oficial de reglas": "Listado de reglas"
+},
+{
+  "_id": {
+    "$oid": "664106440d705b40da64aa07"
+  },
+  "Id Regla 1": "04",
+  "Paletas para juego estandar": "Brindadas por el Coliseo el campin",
+  "Documento oficial de reglas": "Listado de reglas"
+},
+{
+  "_id": {
+    "$oid": "664106440d705b40da64aa08"
+  },
+  "Id Regla 1": "05",
+  "Set a 11 puntos": "Aclaradas en el listado de reglas",
+  "Documento oficial de reglas": "Listado de reglas"
+}]

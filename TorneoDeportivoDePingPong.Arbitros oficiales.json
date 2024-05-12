@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c2"
+  },
+  "Id Arbitro": "01",
+  "Nombre": "Diego Diaz",
+  "Genero": "Masculino",
+  "Edad": 22,
+  "Estatura": "168cms"
+},
+{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c3"
+  },
+  "Id Arbitro": "02",
+  "Nombre": "Cindy Gonzalez",
+  "Genero": "Femenino",
+  "Edad": 30,
+  "Estatura": "155cms"
+},
+{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c4"
+  },
+  "Id Arbitro": "03",
+  "Nombre": "Tatiana Garcia",
+  "Genero": "Femenino",
+  "Edad": 25,
+  "Estatura": "160cms"
+},
+{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c5"
+  },
+  "Id Arbitro": "04",
+  "Nombre": "Adriana Sainea",
+  "Genero": "Femenino",
+  "Edad": 31,
+  "Estatura": "185cms"
+},
+{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c6"
+  },
+  "Id Arbitro": "05",
+  "Nombre": "William Beltran",
+  "Genero": "Masculino",
+  "Edad": 20,
+  "Estatura": "178cms"
+},
+{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c7"
+  },
+  "Id Arbitro": "06",
+  "Nombre": "Francisco Rodriguez",
+  "Genero": "Masculino",
+  "Edad": 28,
+  "Estatura": "169cms"
+},
+{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c8"
+  },
+  "Id Arbitro": "07",
+  "Nombre": "Jhon Angel",
+  "Genero": "Masculino",
+  "Edad": 36,
+  "Estatura": "180cms"
+},
+{
+  "_id": {
+    "$oid": "6640fb000d705b40da64a9c9"
+  },
+  "Id Arbitro": "08",
+  "Nombre": "Jenny Castro",
+  "Genero": "Femenino",
+  "Edad": 32,
+  "Estatura": "172cms"
+}]

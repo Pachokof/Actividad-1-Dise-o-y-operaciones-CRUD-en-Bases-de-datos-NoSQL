@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "664100410d705b40da64a9e1"
+  },
+  "Id patrocinador": "001",
+  "Nombre": "Cocacola",
+  "Monto de inversion en el torneo": 3000000
+},
+{
+  "_id": {
+    "$oid": "664100410d705b40da64a9e2"
+  },
+  "Id patrocinador": "002",
+  "Nombre": "Nike",
+  "Monto de inversion en el torneo": 2000000
+},
+{
+  "_id": {
+    "$oid": "664100410d705b40da64a9e3"
+  },
+  "Id patrocinador": "003",
+  "Nombre": "Golty",
+  "Monto de inversion en el torneo": 4500000
+},
+{
+  "_id": {
+    "$oid": "664100410d705b40da64a9e4"
+  },
+  "Id patrocinador": "004",
+  "Nombre": "Trident",
+  "Monto de inversion en el torneo": 2300000
+},
+{
+  "_id": {
+    "$oid": "664100410d705b40da64a9e5"
+  },
+  "Id patrocinador": "005",
+  "Nombre": "Min de Deportes",
+  "Monto de inversion en el torneo": 3500000
+}]
